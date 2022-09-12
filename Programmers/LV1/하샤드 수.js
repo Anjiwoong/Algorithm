@@ -12,5 +12,5 @@ function solution(x) {
     sum += +str[i];
   }
 
-  return x % sum === 0 ? true : false;
+  return x % sum === 0;
 }
