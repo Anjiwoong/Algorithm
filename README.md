@@ -1,5 +1,7 @@
 # 매일매일 알고리즘 문제를 풀어서 올리는 Repo입니다.
 
+##### \* 표시는 다시 풀어야 할 문제입니다.
+
 ## Programmers
 
 | Level |                                                                                          Title                                                                                          |
@@ -9,9 +11,9 @@
 
 ## LeetCode
 
-| Level |            Title            |
-| :---: | :-------------------------: |
-| Easy  | [Running Sum of 1d Array](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Easy/Running%20Sum%20of%201d%20Array.js) |
-| Easy  |    [Find Pivot Index](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Easy/Find%20Pivot%20Index.js)     |
-| Easy  |    [Contains Duplicate](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Easy/Contains%20Duplicate.js)     |
-| Medium  |    [Maximum Subarray](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Medium/Maximum%20Subarray.js)     |
+|   Level   |                                                              Title                                                               |
+| :-------: | :------------------------------------------------------------------------------------------------------------------------------: |
+|   Easy    | [Running Sum of 1d Array](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Easy/Running%20Sum%20of%201d%20Array.js) |
+|   Easy    |          [Find Pivot Index](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Easy/Find%20Pivot%20Index.js)          |
+|   Easy    |         [Contains Duplicate](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Easy/Contains%20Duplicate.js)         |
+| \* Medium |          [Maximum Subarray](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Medium/Maximum%20Subarray.js)          |
