@@ -9,6 +9,7 @@
 
 ## LeetCode
 
-| Level | Title |
-| :---: | :---: |
-|  LV1  |   X   |
+| Level |            Title            |
+| :---: | :-------------------------: |
+| Easy  | [Running Sum of 1d Array]() |
+| Easy  |    [Find Pivot Index]()     |
