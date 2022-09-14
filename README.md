@@ -11,5 +11,5 @@
 
 | Level |            Title            |
 | :---: | :-------------------------: |
-| Easy  | [Running Sum of 1d Array]() |
-| Easy  |    [Find Pivot Index]()     |
+| Easy  | [Running Sum of 1d Array](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Easy/Running%20Sum%20of%201d%20Array.js) |
+| Easy  |    [Find Pivot Index](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Easy/Find%20Pivot%20Index.js)     |
