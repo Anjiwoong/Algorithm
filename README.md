@@ -2,8 +2,6 @@
 
 ##### \* 표시는 다시 풀어야 할 문제입니다.
 
-커밋 확인
-
 ## Programmers
 
 | Level |                                                                                          Title                                                                                          |
