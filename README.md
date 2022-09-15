@@ -18,5 +18,5 @@
 |   Easy    |         [Contains Duplicate](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Easy/Contains%20Duplicate.js)         |
 |  \* Easy  |         [Isomorphic Strings](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/%20Isomorphic%20Strings.js)          |
 |  \* Easy  |               [Is Subsequence](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Is%20Subsequence.js)               |
-|   Easy    |                                                           [Two Sum]()                                                            |
+|   Easy    |                                                           [Two Sum](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Two%20Sum.js)                                                            |
 | \* Medium |          [Maximum Subarray](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Medium/Maximum%20Subarray.js)          |
