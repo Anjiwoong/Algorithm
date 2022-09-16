@@ -19,5 +19,7 @@
 |  \* Easy  |         [Isomorphic Strings](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/%20Isomorphic%20Strings.js)          |
 |  \* Easy  |               [Is Subsequence](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Is%20Subsequence.js)               |
 |   Easy    |                      [Two Sum](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Two%20Sum.js)                      |
-|   Easy    |                                                      [Merge Sorted Array](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Merge%20Sorted%20Array.js)                                                      |
+|   Easy    |          [Merge Sorted Array](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Merge%20Sorted%20Array.js)          |
+|   Easy    |                                                [Intersection of Two Arrays II]()                                                 |
+|   Easy    |                                               [Best Time to Buy and Sell Stock]()                                                |
 | \* Medium |          [Maximum Subarray](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Medium/Maximum%20Subarray.js)          |
