@@ -26,18 +26,17 @@ Explanation: In this case, no transactions are done and the max profit = 0.
  * @param {number[]} prices
  * @return {number}
  */
-var maxProfit = function(prices) {
+var maxProfit = function (prices) {
   let result = 0;
   let max = 0;
-  
-  for(let i = 0; i < prices.length; i++) {
-      if(prices[i] < prices[i + 1]) {
-          result = Math.max(…prices.slice(i + 1)) - prices[i]
-          if(max < result) max = result
-          
-      } 
+
+  for (let i = 0; i < prices.length; i++) {
+    if (prices[i] < prices[i + 1]) {
+      result = Math.max(...prices.slice(i + 1)) - prices[i];
+      if (max < result) max = result;
+    }
   }
-  return max
+  return max;
 };
 
 /**
