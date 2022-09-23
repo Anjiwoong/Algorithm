@@ -17,16 +17,16 @@
 |   Easy    |           [Running Sum of 1d Array](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Easy/Running%20Sum%20of%201d%20Array.js)           |
 |   Easy    |                    [Find Pivot Index](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Easy/Find%20Pivot%20Index.js)                    |
 |   Easy    |                   [Contains Duplicate](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Easy/Contains%20Duplicate.js)                   |
-|  \* Easy  |                                                                [Isomorphic Strings](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Isomorphic%20Strings.js)                                                                |
+|  \* Easy  |                     [Isomorphic Strings](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Isomorphic%20Strings.js)                     |
 |  \* Easy  |                         [Is Subsequence](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Is%20Subsequence.js)                         |
 |   Easy    |                                [Two Sum](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Two%20Sum.js)                                |
 |   Easy    |                    [Merge Sorted Array](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Merge%20Sorted%20Array.js)                    |
 |   Easy    |                            [Ransom Note](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Ransom%20Note.js)                            |
-|  \* Easy  |                                                              [Merge Two Sorted Lists](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Merge%20Two%20Sorted%20Lists.js)                                                              |
+|   Easy    |               [Merge Two Sorted Lists](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Merge%20Two%20Sorted%20Lists.js)               |
 |  \* Easy  |                    [Reshape the Matrix](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Reshape%20the%20Matrix.js)                    |
 |  \* Easy  | [First Unique Character in a String](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/First%20Unique%20Character%20in%20a%20String.js) |
 |   Easy    |       [Intersection of Two Arrays II](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Intersection%20of%20Two%20Arrays%20II.js)       |
-|   Easy    |                                                                  [Valid Anagram](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Valid%20Anagram.js)                                                                   |
-|  \* Easy  |                                                                [Valid Parentheses](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Valid%20Parentheses.js)                                                                 |
+|   Easy    |                          [Valid Anagram](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Valid%20Anagram.js)                          |
+|  \* Easy  |                      [Valid Parentheses](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Valid%20Parentheses.js)                      |
 |  \* Easy  |   [Best Time to Buy and Sell Stock](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)   |
 | \* Medium |                    [Maximum Subarray](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Medium/Maximum%20Subarray.js)                    |
