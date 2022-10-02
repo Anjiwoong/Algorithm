@@ -27,6 +27,9 @@
 |  \* Easy  | [First Unique Character in a String](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/First%20Unique%20Character%20in%20a%20String.js) |
 |   Easy    |       [Intersection of Two Arrays II](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Intersection%20of%20Two%20Arrays%20II.js)       |
 |   Easy    |                          [Valid Anagram](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Valid%20Anagram.js)                          |
+|   Easy    |                                                                  [Single Number]()                                                                   |
 |  \* Easy  |                      [Valid Parentheses](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Valid%20Parentheses.js)                      |
 |  \* Easy  |   [Best Time to Buy and Sell Stock](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)   |
+|   Easy    |                                                                 [Majority Element]()                                                                 |
 | \* Medium |                    [Maximum Subarray](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Medium/Maximum%20Subarray.js)                    |
+| \* Medium |                                                                       [3Sum]()                                                                       |
