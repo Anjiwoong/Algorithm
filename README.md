@@ -31,5 +31,6 @@
 |  \* Easy  |                      [Valid Parentheses](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Valid%20Parentheses.js)                      |
 |  \* Easy  |   [Best Time to Buy and Sell Stock](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)   |
 |   Easy    |                                                                 [Majority Element]()                                                                 |
+|  \* Easy  |                                                              [Longest Common Prefix]()                                                               |
 | \* Medium |                    [Maximum Subarray](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Medium/Maximum%20Subarray.js)                    |
 | \* Medium |                                                                       [3Sum]()                                                                       |
