@@ -33,5 +33,6 @@
 |   Easy    |                       [Majority Element](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Majority%20Element.js)                       |
 |  \* Easy  |                 [Longest Common Prefix](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Longest%20Common%20Prefix.js)                 |
 |   Easy    |   [Check if the Sentence Is Pangram](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Check%20if%20the%20Sentence%20Is%20Pangram.js)   |
+|   Easy    |                                                               [Length of Last Word]()                                                                |
 | \* Medium |                    [Maximum Subarray](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Medium/Maximum%20Subarray.js)                    |
 | \* Medium |                                   [3Sum](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Medium/3Sum.js)                                   |
