@@ -32,7 +32,7 @@
 |  \* Easy  |   [Best Time to Buy and Sell Stock](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)   |
 |   Easy    |                       [Majority Element](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Majority%20Element.js)                       |
 |  \* Easy  |                 [Longest Common Prefix](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Longest%20Common%20Prefix.js)                 |
-|  \* Easy  |                                                        [Remove Duplicates from Sorted List]()                                                        |
+|  \* Easy  |  [Remove Duplicates from Sorted List](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List.js)  |
 |   Easy    |   [Check if the Sentence Is Pangram](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Check%20if%20the%20Sentence%20Is%20Pangram.js)   |
 |   Easy    |                  [Length of Last Word](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Length%20of%20Last%20Word.js)                  |
 | \* Medium |                    [Maximum Subarray](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Medium/Maximum%20Subarray.js)                    |
