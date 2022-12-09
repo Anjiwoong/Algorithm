@@ -8,6 +8,11 @@
 | :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  LV1   | [가운데 글자 가져오기](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/Programmers/LV1/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.js) |
 |  LV1   |                              [하샤드 수](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/Programmers/LV1/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.js)                               |
+|  LV2   |                              [최댓값과 최솟값](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.js)                               |
+|  LV2   |                              [최솟값 만들기](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)                               |
+|  LV2   |                              [올바른 괄호](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.js)                               |
+|  LV2   |                              [숫자의 표현](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.js)                               |
+|  LV2   |                              [JadenCase 문자열 만들기](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)                               |
 | \* LV3 |                           [기지국 설치](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV3/%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98.js)                           |
 
 ## LeetCode
