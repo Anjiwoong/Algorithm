@@ -8,11 +8,11 @@
 | :----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  LV1   | [가운데 글자 가져오기](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/Programmers/LV1/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.js) |
 |  LV1   |                              [하샤드 수](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/Programmers/LV1/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.js)                               |
-|  LV2   |                              [최댓값과 최솟값](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.js)                               |
-|  LV2   |                              [최솟값 만들기](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)                               |
-|  LV2   |                              [올바른 괄호](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.js)                               |
-|  LV2   |                              [숫자의 표현](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.js)                               |
-|  LV2   |                              [JadenCase 문자열 만들기](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)                               |
+|  LV2   |                [최댓값과 최솟값](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.js)                |
+|  LV2   |                     [최솟값 만들기](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)                      |
+|  LV2   |                           [올바른 괄호](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.js)                           |
+|  LV2   |                           [숫자의 표현](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.js)                           |
+|  LV2   |          [JadenCase 문자열 만들기](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)           |
 | \* LV3 |                           [기지국 설치](https://github.com/Anjiwoong/Algorithm/blob/main/Programmers/LV3/%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98.js)                           |
 
 ## LeetCode
@@ -42,3 +42,18 @@
 |   Easy    |                  [Length of Last Word](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Easy/Length%20of%20Last%20Word.js)                  |
 | \* Medium |                    [Maximum Subarray](https://github.com/Anjiwoong/Algorithm_TIL/blob/main/LeetCode/Medium/Maximum%20Subarray.js)                    |
 | \* Medium |                                   [3Sum](https://github.com/Anjiwoong/Algorithm/blob/main/LeetCode/Medium/3Sum.js)                                   |
+
+## Zerobase 자료구조
+
+|  Level  |                                                                                        Title                                                                                         |
+| :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  배열   |      [수열 최솟값 위치](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EC%88%98%EC%97%B4%20%EC%B5%9C%EC%86%9F%EA%B0%92%20%EC%9C%84%EC%B9%98.js)       |
+|  배열   |                         [체스 세트](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EC%B2%B4%EC%8A%A4%20%EC%84%B8%ED%8A%B8.js)                         |
+|  배열   |               [두 수 최대 합](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EB%91%90%20%EC%88%98%20%EC%B5%9C%EB%8C%80%20%ED%95%A9.js)                |
+|  배열   |                   [일곱 난장이](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9E%A5%EC%9D%B4.js)                    |
+|  배열   |                   [나무 그리기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EB%82%98%EB%AC%B4%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.js)                    |
+|  배열   |                                         [Two Sum](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/Two%20Sum.js)                                         |
+|  배열   |                                  [OX 퀴즈](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/OX%20%ED%80%B4%EC%A6%88.js)                                  |
+|  배열   |                   [벽돌 옮기기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EB%B2%BD%EB%8F%8C%20%EC%98%AE%EA%B8%B0%EA%B8%B0.js)                    |
+|  배열   | [숫자 빈도수 구하기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EC%88%AB%EC%9E%90%20%EB%B9%88%EB%8F%84%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.js) |
+| \* 배열 |              [달팽이 만들기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EB%8B%AC%ED%8C%BD%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)              |
