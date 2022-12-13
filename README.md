@@ -58,11 +58,11 @@
 |  배열   | [숫자 빈도수 구하기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EC%88%AB%EC%9E%90%20%EB%B9%88%EB%8F%84%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.js) |
 | \* 배열 |              [달팽이 만들기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EB%8B%AC%ED%8C%BD%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)              |
 
-|    Linked_list    |         Title         |
-| :---------------: | :-------------------: |
-| 연결 리스트(공부) |   [size, isEmpty]()   |
-| 연결 리스트(공부) | [printNode, append]() |
-| 연결 리스트(공부) |      [insert]()       |
-| 연결 리스트(공부) |      [remove]()       |
-| 연결 리스트(공부) |     [removeAt]()      |
-| 연결 리스트(공부) | [indexOf, remove2]()  |
+|    Linked_list    |                                                                                           Title                                                                                            |
+| :---------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 연결 리스트(공부) |     [size, isEmpty](https://github.com/Anjiwoong/Algorithm_data-structure/blob/main/Zerobase/%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/%EC%97%B0%EC%8A%B5/size%2C%20isEmpty.js)     |
+| 연결 리스트(공부) | [printNode, append](https://github.com/Anjiwoong/Algorithm_data-structure/blob/main/Zerobase/%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/%EC%97%B0%EC%8A%B5/printNode%2C%20append.js) |
+| 연결 리스트(공부) |              [insert](https://github.com/Anjiwoong/Algorithm_data-structure/blob/main/Zerobase/%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/%EC%97%B0%EC%8A%B5/insert.js)              |
+| 연결 리스트(공부) |              [remove](https://github.com/Anjiwoong/Algorithm_data-structure/blob/main/Zerobase/%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/%EC%97%B0%EC%8A%B5/remove.js)              |
+| 연결 리스트(공부) |            [removeAt](https://github.com/Anjiwoong/Algorithm_data-structure/blob/main/Zerobase/%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/%EC%97%B0%EC%8A%B5/removeAt.js)            |
+| 연결 리스트(공부) |  [indexOf, remove2](https://github.com/Anjiwoong/Algorithm_data-structure/blob/main/Zerobase/%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8/%EC%97%B0%EC%8A%B5/indexOf%2C%20remove2.js)  |
