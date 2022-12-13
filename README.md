@@ -1,4 +1,4 @@
-# 매일매일 알고리즘 문제를 풀어서 올리는 Repo입니다.
+# 알고리즘 문제와 자료구조를 공부하는 Repo입니다.
 
 ##### \* 표시는 다시 풀어야 할 문제입니다.
 
@@ -45,15 +45,24 @@
 
 ## Zerobase 자료구조
 
-| 자료구조 |                                                                                        Title                                                                                         |
-| :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   배열   |      [수열 최솟값 위치](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EC%88%98%EC%97%B4%20%EC%B5%9C%EC%86%9F%EA%B0%92%20%EC%9C%84%EC%B9%98.js)       |
-|   배열   |                         [체스 세트](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EC%B2%B4%EC%8A%A4%20%EC%84%B8%ED%8A%B8.js)                         |
-|   배열   |               [두 수 최대 합](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EB%91%90%20%EC%88%98%20%EC%B5%9C%EB%8C%80%20%ED%95%A9.js)                |
-|   배열   |                   [일곱 난장이](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9E%A5%EC%9D%B4.js)                    |
-|   배열   |                   [나무 그리기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EB%82%98%EB%AC%B4%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.js)                    |
-|   배열   |                                         [Two Sum](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/Two%20Sum.js)                                         |
-|   배열   |                                  [OX 퀴즈](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/OX%20%ED%80%B4%EC%A6%88.js)                                  |
-|   배열   |                   [벽돌 옮기기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EB%B2%BD%EB%8F%8C%20%EC%98%AE%EA%B8%B0%EA%B8%B0.js)                    |
-|   배열   | [숫자 빈도수 구하기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EC%88%AB%EC%9E%90%20%EB%B9%88%EB%8F%84%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.js) |
-| \* 배열  |              [달팽이 만들기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EB%8B%AC%ED%8C%BD%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)              |
+|         |                                                                                        Title                                                                                         |
+| :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  배열   |      [수열 최솟값 위치](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EC%88%98%EC%97%B4%20%EC%B5%9C%EC%86%9F%EA%B0%92%20%EC%9C%84%EC%B9%98.js)       |
+|  배열   |                         [체스 세트](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EC%B2%B4%EC%8A%A4%20%EC%84%B8%ED%8A%B8.js)                         |
+|  배열   |               [두 수 최대 합](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EB%91%90%20%EC%88%98%20%EC%B5%9C%EB%8C%80%20%ED%95%A9.js)                |
+|  배열   |                   [일곱 난장이](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9E%A5%EC%9D%B4.js)                    |
+|  배열   |                   [나무 그리기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EB%82%98%EB%AC%B4%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.js)                    |
+|  배열   |                                         [Two Sum](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/Two%20Sum.js)                                         |
+|  배열   |                                  [OX 퀴즈](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/OX%20%ED%80%B4%EC%A6%88.js)                                  |
+|  배열   |                   [벽돌 옮기기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EB%B2%BD%EB%8F%8C%20%EC%98%AE%EA%B8%B0%EA%B8%B0.js)                    |
+|  배열   | [숫자 빈도수 구하기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EC%88%AB%EC%9E%90%20%EB%B9%88%EB%8F%84%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.js) |
+| \* 배열 |              [달팽이 만들기](https://github.com/Anjiwoong/Algorithm/blob/main/Zerobase/%EB%B0%B0%EC%97%B4/%EB%8B%AC%ED%8C%BD%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)              |
+
+|    Linked_list    |         Title         |
+| :---------------: | :-------------------: |
+| 연결 리스트(공부) |   [size, isEmpty]()   |
+| 연결 리스트(공부) | [printNode, append]() |
+| 연결 리스트(공부) |      [insert]()       |
+| 연결 리스트(공부) |      [remove]()       |
+| 연결 리스트(공부) |     [removeAt]()      |
+| 연결 리스트(공부) | [indexOf, remove2]()  |
